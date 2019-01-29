@@ -1,0 +1,72 @@
+{
+    "0": {
+        "0": {
+            "command": "b!verify",
+            "description": "Verify your account using this command"
+        },
+        "1": {
+            "command": "b!apply",
+            "description": "Apply to the guild using this command"
+        },
+        "2": {
+            "command": "b!betrayed",
+            "description": "Gives link to the Guild Forum"
+        },
+        "3": {
+            "command": "b!application status [User]",
+            "description": "Check Your/User's Application Status"
+        },
+        "4": {
+            "command": "b!say [Message]",
+            "description": "The bot will say any message you specified"
+        },
+        "5": {
+            "command": "b!application",
+            "description": "See Your Application"
+        },
+        "name": "General"
+    },
+    "1": {
+        "0": {
+            "command": "b!add category [Category Name]",
+            "description": "Add a category to b!help"
+        },
+        "1": {
+            "command": "b!add command [Category] cmd:The Command Here; desc:The Description Here;",
+            "description": "Add a command to b!help"
+        },
+        "2": {
+            "command": "b!color",
+            "description": "Change Color of the messages sent by the bot"
+        },
+        "3": {
+            "command": "b!verified",
+            "description": "Check how many members out of the total are verified"
+        },
+        "4": {
+            "command": "b!verified list",
+            "description": "See the Verified Member List"
+        },
+        "5": {
+            "command": "b!broadcast [Channel] [Message]",
+            "description": "Broadcast a message to a channel"
+        },
+        "6": {
+            "command": "b!poll [Channel] [Emoji/CustomEmoji] [Emoji/CustomEmoji] [Poll here]",
+            "description": "Posts a poll on a Channel"
+        },
+        "7": {
+            "command": "b!display [Username]",
+            "description": "See Hypixel Player Statistics"
+        },
+        "8": {
+            "command": "b!application [User]",
+            "description": "See a User's Application"
+        },
+        "9": {
+            "command": "b!application [Accept/Deny] [Application ID]",
+            "description": "Accept or Deny a Application"
+        },
+        "name": "Moderation"
+    }
+}
